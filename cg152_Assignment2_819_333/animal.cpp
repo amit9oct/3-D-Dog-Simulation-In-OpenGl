@@ -1,6 +1,5 @@
 /*
 Amitayush Thakur	2012B4A7819P
-Akath Singh Dua		2012B4A7333P
 */
 #include "animal.h"
 #include <math.h>

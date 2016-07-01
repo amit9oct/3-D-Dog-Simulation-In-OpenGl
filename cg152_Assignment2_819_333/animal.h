@@ -1,6 +1,5 @@
 /*
 Amitayush Thakur	2012B4A7819P
-Akath Singh Dua		2012B4A7333P
 */
 #include <GL/glut.h>
 #define PI 3.1415926535897932384626433832795
